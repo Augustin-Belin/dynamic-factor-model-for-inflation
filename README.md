@@ -1,6 +1,3 @@
-"# dynamic-factor-model-for-inflation" 
-"# dynamic-factor-model-for-inflation" 
-
 A brief overview the repository:
 
 Final_Notebook.ipynb: goes over all the models/methodology in models.
